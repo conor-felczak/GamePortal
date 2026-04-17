@@ -181,14 +181,6 @@ public class Quiz implements GameWriteable{
         }
 
 
-        @Override
-        public void writeHighScore(File f)  {
-                // TODO Auto-generated method stub
-                
-        }
-
-
-
 
         @Override
         public boolean isHighScore(String score, String currentHighScore) {

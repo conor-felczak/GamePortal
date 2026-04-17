@@ -36,6 +36,7 @@ public class GamePortal {
         games.clear();
         games.add(new Quiz());
         games.add(new NumberGame(0, 100));
+        games.add(new main());
     }
 
     public static void printGameChoices() {
