@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Game"
+		},
+		{
+			"path": "../../BuzzFeedQuiz"
+		},
+		{
+			"path": "../../ConorNumberGuessGame"
+		},
+		{
+			"path": "../../cards-main 2 2"
+		}
+	],
+	"settings": {}
+}
